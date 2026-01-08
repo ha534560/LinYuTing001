@@ -3,7 +3,7 @@
 // 例如：'https://raw.githubusercontent.com/<owner>/<repo>/main/pupuwaifu/data/pages/'
 
 window.LINKS_CONFIG = {
-  profileId: 'LinYuYing001',
+  profileId: 'LinYuTing001',
   uiSeed: '1b3061c5eb65434f999139110aa8022e',
   uiLayout: 'cover',
   uiVariant: 'b',
